@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live on DJ IHaveAHat</title>
+    <link>https://dj.zowi.ee/mixes/live/</link>
+    <description>Recent content in Live on DJ IHaveAHat</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dj.zowi.ee/mixes/live/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Live @ Furrave 2 (00:30-02:15)</title>
+      <link>https://dj.zowi.ee/mixes/live/2013-10-26/furrave-2-0030-0215/</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://dj.zowi.ee/mixes/live/2013-10-26/furrave-2-0030-0215/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Live @ Furrave 2 (20:00-21:30)</title>
+      <link>https://dj.zowi.ee/mixes/live/2013-10-26/furrave-2-2000-2130/</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://dj.zowi.ee/mixes/live/2013-10-26/furrave-2-2000-2130/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Live @ Furrave 2 (22:30-23:30)</title>
+      <link>https://dj.zowi.ee/mixes/live/2013-10-26/furrave-2-2230-2330/</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://dj.zowi.ee/mixes/live/2013-10-26/furrave-2-2230-2330/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Live @ Furrave 1</title>
+      <link>https://dj.zowi.ee/mixes/live/2013-03-23/furrave-1/</link>
+      <pubDate>Sat, 23 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://dj.zowi.ee/mixes/live/2013-03-23/furrave-1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
