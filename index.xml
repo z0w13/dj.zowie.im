@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>DJ IHaveAHat</title>
-    <link>http://localhost:1313/</link>
+    <link>https://dj.zowi.ee/</link>
     <description>Recent content on DJ IHaveAHat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dj.zowi.ee/" rel="self" type="application/rss+xml" />
     
     <itunes:author>Zowie</itunes:author>
     <itunes:owner>
@@ -15,7 +15,7 @@
     </itunes:owner>
     <itunes:summary>Bringing you DJ sets across the entire spectrum of EDM</itunes:summary>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="http://localhost:1313//avatar.png" />
+    <itunes:image href="https://dj.zowi.ee//avatar.png" />
     <itunes:category text="Music" />
     
     
