@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genres on DJ IHaveAHat</title>
-    <link>https://dj.zowi.ee/genres/</link>
+    <link>http://localhost:1313/genres/</link>
     <description>Recent content in Genres on DJ IHaveAHat</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dj.zowi.ee/genres/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/genres/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hardstyle</title>
-      <link>https://dj.zowi.ee/genres/hardstyle/</link>
+      <link>http://localhost:1313/genres/hardstyle/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/genres/hardstyle/</guid>
+      <guid>http://localhost:1313/genres/hardstyle/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardstyle [Raw]</title>
-      <link>https://dj.zowi.ee/genres/hardstyle-raw/</link>
+      <link>http://localhost:1313/genres/hardstyle-raw/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/genres/hardstyle-raw/</guid>
+      <guid>http://localhost:1313/genres/hardstyle-raw/</guid>
       <description></description>
     </item>
     <item>
       <title>UK Hardcore</title>
-      <link>https://dj.zowi.ee/genres/uk-hardcore/</link>
+      <link>http://localhost:1313/genres/uk-hardcore/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/genres/uk-hardcore/</guid>
+      <guid>http://localhost:1313/genres/uk-hardcore/</guid>
       <description></description>
     </item>
     <item>
       <title>Handsup</title>
-      <link>https://dj.zowi.ee/genres/handsup/</link>
+      <link>http://localhost:1313/genres/handsup/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/genres/handsup/</guid>
+      <guid>http://localhost:1313/genres/handsup/</guid>
       <description></description>
     </item>
     <item>
       <title>Hardstyle [Euphoric]</title>
-      <link>https://dj.zowi.ee/genres/hardstyle-euphoric/</link>
+      <link>http://localhost:1313/genres/hardstyle-euphoric/</link>
       <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/genres/hardstyle-euphoric/</guid>
+      <guid>http://localhost:1313/genres/hardstyle-euphoric/</guid>
       <description></description>
     </item>
     <item>
       <title>House</title>
-      <link>https://dj.zowi.ee/genres/house/</link>
+      <link>http://localhost:1313/genres/house/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/genres/house/</guid>
+      <guid>http://localhost:1313/genres/house/</guid>
       <description></description>
     </item>
     <item>
       <title>Gabber</title>
-      <link>https://dj.zowi.ee/genres/gabber/</link>
+      <link>http://localhost:1313/genres/gabber/</link>
       <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/genres/gabber/</guid>
+      <guid>http://localhost:1313/genres/gabber/</guid>
       <description></description>
     </item>
     <item>
       <title>Trance</title>
-      <link>https://dj.zowi.ee/genres/trance/</link>
+      <link>http://localhost:1313/genres/trance/</link>
       <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/genres/trance/</guid>
+      <guid>http://localhost:1313/genres/trance/</guid>
       <description></description>
     </item>
   </channel>

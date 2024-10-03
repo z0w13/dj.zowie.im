@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trance on DJ IHaveAHat</title>
-    <link>https://dj.zowi.ee/genres/trance/</link>
+    <link>http://localhost:1313/genres/trance/</link>
     <description>Recent content in Trance on DJ IHaveAHat</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dj.zowi.ee/genres/trance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/genres/trance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trance Mix (17#07)</title>
-      <link>https://dj.zowi.ee/mixes/trance/17-07/</link>
+      <link>http://localhost:1313/mixes/trance/17-07/</link>
       <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/mixes/trance/17-07/</guid>
+      <guid>http://localhost:1313/mixes/trance/17-07/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s not a common occurence, but we&amp;rsquo;ve got another trance mix! Enjoy!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trance Mix (2016-05-21)</title>
-      <link>https://dj.zowi.ee/mixes/trance/2016-05-21/</link>
+      <link>http://localhost:1313/mixes/trance/2016-05-21/</link>
       <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/mixes/trance/2016-05-21/</guid>
+      <guid>http://localhost:1313/mixes/trance/2016-05-21/</guid>
       <description>&lt;p&gt;And now for something completely different, Trance! Really enjoyed mixing this one, something different from the usual.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mixes on DJ IHaveAHat</title>
-    <link>https://dj.zowi.ee/mixes/</link>
+    <link>http://localhost:1313/mixes/</link>
     <description>Recent content in Mixes on DJ IHaveAHat</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dj.zowi.ee/mixes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mixes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weekly</title>
-      <link>https://dj.zowi.ee/mixes/weekly/</link>
+      <link>http://localhost:1313/mixes/weekly/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/mixes/weekly/</guid>
+      <guid>http://localhost:1313/mixes/weekly/</guid>
       <description></description>
     </item>
     <item>
       <title>Other</title>
-      <link>https://dj.zowi.ee/mixes/other/</link>
+      <link>http://localhost:1313/mixes/other/</link>
       <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/mixes/other/</guid>
+      <guid>http://localhost:1313/mixes/other/</guid>
       <description></description>
     </item>
     <item>
       <title>Live</title>
-      <link>https://dj.zowi.ee/mixes/live/</link>
+      <link>http://localhost:1313/mixes/live/</link>
       <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://dj.zowi.ee/mixes/live/</guid>
+      <guid>http://localhost:1313/mixes/live/</guid>
       <description></description>
     </item>
   </channel>

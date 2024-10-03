@@ -15,6 +15,11 @@ h1 {
     margin-top: 0.8rem;
 }
 
+h2 {
+    font-weight: normal;
+    font-size: 28px;
+}
+
 table {
     width: 100%;
 }
@@ -23,6 +28,7 @@ table td {
 }
 
 .row {
+    font-weight: normal;
     overflow: hidden;
     margin: 0;
 }
@@ -131,9 +137,18 @@ td.title {
     min-width: 100%;
 }
 
-.tracklist {
-    list-style: inside decimal;
-    padding-left: 0;
+.tracklist tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+.tracklist tr:nth-child(odd) {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.tracklist .idx {
+  padding-right: 0;
+}
+
+.tracklist td {
+  padding: 0.6rem;
 }
 
 p {
@@ -223,4 +238,8 @@ a.btn {
 
 a.btn:hover {
     background-color: #2F3336;
+}
+
+.content {
+  margin-bottom: 2rem;
 }
