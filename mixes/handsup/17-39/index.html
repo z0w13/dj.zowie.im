@@ -243,6 +243,17 @@
         </div>
       </div>
     </div>
+      <script>
+        const audioElements = document.getElementsByTagName("audio");
+        document.addEventListener("play", function(evt) {
+          for (const elem of audioElements) {
+            if (elem != evt.target) {
+              elem.pause();
+            }
+          };
+          console.log("play", evt);
+        }, true);
+      </script>
   </body>
 </html>
 
